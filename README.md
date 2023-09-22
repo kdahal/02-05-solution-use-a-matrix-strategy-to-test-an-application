@@ -1,4 +1,4 @@
-# 02-05 Solution: Use a matrix strategy to test an application
+# 02-05 Solution: Use a matrix strategy to test an application test
 Use these files to analyze one approach to solving the challenge.
 
 1. Create a new repo.
